@@ -1,0 +1,34 @@
+body{
+    display: flexbox;
+}
+nav{
+    display: flex;
+}
+.nav{
+    background-color: rgb(212, 61, 61);
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-left:20px;
+    padding-right: 100px;
+    margin: -10px;
+    font-family:fantasy;
+    font-size: 60px;
+    border-top-right-radius: 40px;
+}
+.nav img{
+    width: 80px;
+} 
+hr{
+    margin-right:-10px;
+    margin-left: -10px;
+    margin-top:9px;
+}
+p{
+    margin-left: 300px;
+    font-size: 20px;
+}
+p img{
+    width: 40px;
+    margin-bottom: -15px;
+    border-radius: 10px;
+}
